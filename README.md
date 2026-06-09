@@ -13,9 +13,8 @@ Este proyecto consiste en el diseño e implementación de una base de datos NoSQ
 
 ## Ejemplos JSON de cada Colección
 
-
-### 1. Colección: usuarios
 ```json
+### 1. Colección: usuarios
 {
   "_id": {"$oid": "6a24aee21203ab8c34096b1a"},
   "nombre": "María Alfaro",
