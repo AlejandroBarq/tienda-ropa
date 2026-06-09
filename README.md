@@ -14,7 +14,7 @@ Este proyecto consiste en el diseño e implementación de una base de datos NoSQ
 ## Ejemplos JSON de cada Colección
 
 
-## 1. Colección: usuarios
+### 1. Colección: usuarios
 ```json
 {
   "_id": {"$oid": "6a24aee21203ab8c34096b1a"},
@@ -25,14 +25,14 @@ Este proyecto consiste en el diseño e implementación de una base de datos NoSQ
 }
 
 
-## 2. Coleccion: Marcas
+### 2. Coleccion: Marcas
 {
   "_id": {"$oid": "6a24aee21203ab8c34096b2a"},
   "nombre": "Levi's",
   "pais_origen": "USA"
 }
 
-## 3. Coleccion: Prendas
+### 3. Coleccion: Prendas
 {
   "_id": {"$oid": "6a24aee21203ab8c34096b2b"},
   "nombre": "Jeans 501 Classic",
@@ -43,7 +43,7 @@ Este proyecto consiste en el diseño e implementación de una base de datos NoSQ
   "categoria": "Mezclilla"
 }
 
-## 4. Coleccion: Ventas
+### 4. Coleccion: Ventas
 {
   "_id": {"$oid": "6a24aee21203ab8c34096b3a"},
   "factura_num": "FAC-001",
